@@ -1,0 +1,7 @@
+Possible Improvements:
+
+Make the up and down movement more smooth
+	Possible to use a flag so that horizontal movement stops while doing vertical movement
+Sounds/Music   
+Make it more colorful or neater 
+	can be done by using more images and a different ttf font 
